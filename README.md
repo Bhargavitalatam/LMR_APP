@@ -61,6 +61,7 @@ Predicted Landmark ID: 482
 ## Deployment
 
 The project is deployed using Streamlit Cloud and can be accessed through the live application link.
+
 Live at - https://lmrapp-mfk6x8j4fnqi3x7ehwjrk9.streamlit.app/
 
 ## Future Improvements
